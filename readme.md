@@ -4,7 +4,7 @@
 This repository contains a decompressor for a tweaked compression intended for compressing demos and assets
 which i derived to compress some of my noncritical data. The format is based on machine learning, prediction
 by partial matching and suffix sorting. The decompressor is a 7 kilobyte PE EXE, which has been tested to work
-on Windows 10.
+on Windows 10, with no guarantees of it working on any other Windows version, distribution or bootleg (like Wine).
 
 The decompressor accomplishes an amazing binary size to compression quality ratio.
 
@@ -19,7 +19,7 @@ The decompressor accomplishes an amazing binary size to compression quality rati
 |--------|-------------------|
 | gzip   | 98,048 bytes      |
 | lzma   | 158,400 (liblzma) + 81,192 (lzma) = 239,592 bytes |
-| unpack | **7,516 bytes**       |
+| unpack | **7,350 bytes**       |
 
 Working on the decompressor made me find an issue with Ghidra, which is documented on the tracker: https://github.com/NationalSecurityAgency/ghidra/issues/2858
 
