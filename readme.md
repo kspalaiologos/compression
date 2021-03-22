@@ -23,5 +23,5 @@ The decompressor accomplishes an amazing binary size to compression quality rati
 
 # license
 
-all rights reserved (no copying, no redistributing, no modification, no disassembling and sharing the results),
-except test data - i have no clue where most of it came from.
+all rights reserved (no copying, no redistributing, no modification, no disassembling and sharing the results;
+you're allowed to use the decompressor to decompress packed files), except test data - i have no clue where most of it came from.
