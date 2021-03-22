@@ -13,7 +13,7 @@ The decompressor accomplishes an amazing binary size to compression quality rati
 | bee.txt           | 16,896 bytes     | 5,615,100 bytes   | ~ **332.33**     | 21,584 bytes, ~ **260**    | 2,080,490 bytes, ~ **2.69**  |
 | kalashnikov.wav   | 8,651,028 bytes  | 18,780,204 bytes  | ~ **2.1709**     | 15,800,024 bytes, ~ **1.1** | 18,224,021 bytes, ~ **1.03** |
 | megalovania.xm    | 186,628 bytes    | 353,107 bytes     | ~ **1.892**      | 207,413 bytes, ~ **1.70**  | 231,892 bytes, ~ **1.52**    |
-| urls.txt          | 498,505 bytes    | 6,154,115 bytes   | ~ **12.3452**    | 544,615 bytes, ~ **11.2**  | 1,334,992 bytes, ~ **4.06**  |
+| urls.txt          | 498,505 bytes    | 6,154,115 bytes   | ~ **12.345**    | 544,615 bytes, ~ **11.2**  | 1,334,992 bytes, ~ **4.06**  |
 
 | Method | Decompressor size |
 |--------|-------------------|
