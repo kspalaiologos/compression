@@ -19,7 +19,7 @@ The decompressor accomplishes an amazing binary size to compression quality rati
 |--------|-------------------|
 | gzip   | 98,048 bytes      |
 | lzma   | 158,400 (liblzma) + 81,192 (lzma) = 239,592 bytes |
-| unpack | **7,350 bytes**       |
+| unpack | **5,968 bytes**       |
 
 Working on the decompressor made me find an issue with Ghidra, which is documented on the tracker: https://github.com/NationalSecurityAgency/ghidra/issues/2858
 
