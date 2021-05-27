@@ -3,7 +3,7 @@
 
 This repository contains a decompressor for a tweaked compression intended for compressing demos and assets
 which i derived to compress some of my noncritical data. The format is based on machine learning, prediction
-by partial matching and suffix sorting. The decompressor is a 7 kilobyte PE EXE, which has been tested to work
+by partial matching and suffix sorting. The decompressor is a 5 kilobyte PE EXE, which has been tested to work
 on Windows 10, with no guarantees of it working on any other Windows version, distribution or bootleg (like Wine).
 
 The decompressor accomplishes an amazing binary size to compression quality ratio.
